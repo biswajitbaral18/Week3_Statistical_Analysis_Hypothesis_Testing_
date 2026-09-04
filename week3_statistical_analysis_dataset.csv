@@ -1,0 +1,181 @@
+Order_ID,Promotion,Category,Purchase_Amount_INR
+ORD1001,Promotion,Electronics,2048.32
+ORD1002,Promotion,Groceries,1565.33
+ORD1003,No Promotion,Electronics,1982.74
+ORD1004,Promotion,Clothing,1522.86
+ORD1005,No Promotion,Groceries,879.44
+ORD1006,Promotion,Clothing,1005.11
+ORD1007,Promotion,Groceries,1386.35
+ORD1008,Promotion,Groceries,1466.6
+ORD1009,No Promotion,Electronics,2445.24
+ORD1010,No Promotion,Clothing,1960.54
+ORD1011,No Promotion,Electronics,1337.56
+ORD1012,No Promotion,Electronics,3398.42
+ORD1013,Promotion,Electronics,2075.02
+ORD1014,No Promotion,Clothing,788.03
+ORD1015,Promotion,Clothing,1555.04
+ORD1016,Promotion,Electronics,3766.8
+ORD1017,Promotion,Electronics,2537.36
+ORD1018,No Promotion,Groceries,566.85
+ORD1019,No Promotion,Electronics,1358.29
+ORD1020,Promotion,Electronics,2481.67
+ORD1021,No Promotion,Clothing,502.02
+ORD1022,No Promotion,Groceries,474.95
+ORD1023,No Promotion,Electronics,3202.99
+ORD1024,Promotion,Clothing,2179.31
+ORD1025,Promotion,Groceries,1117.9
+ORD1026,No Promotion,Electronics,1897.32
+ORD1027,Promotion,Groceries,1164.63
+ORD1028,Promotion,Clothing,2589.2
+ORD1029,No Promotion,Clothing,1461.99
+ORD1030,No Promotion,Clothing,1663.9
+ORD1031,No Promotion,Clothing,1219.02
+ORD1032,Promotion,Electronics,2589.58
+ORD1033,No Promotion,Groceries,961.79
+ORD1034,No Promotion,Electronics,2281.96
+ORD1035,Promotion,Electronics,1316.7
+ORD1036,Promotion,Electronics,3382.35
+ORD1037,No Promotion,Clothing,1053.95
+ORD1038,Promotion,Clothing,2494.53
+ORD1039,Promotion,Electronics,2996.45
+ORD1040,Promotion,Clothing,1678.39
+ORD1041,Promotion,Electronics,2835.56
+ORD1042,Promotion,Clothing,1606.6
+ORD1043,No Promotion,Electronics,1883.82
+ORD1044,No Promotion,Clothing,1383.04
+ORD1045,No Promotion,Clothing,1654.0
+ORD1046,No Promotion,Groceries,683.87
+ORD1047,No Promotion,Electronics,1795.55
+ORD1048,Promotion,Electronics,2318.93
+ORD1049,No Promotion,Electronics,2818.81
+ORD1050,No Promotion,Groceries,1163.14
+ORD1051,No Promotion,Groceries,890.5
+ORD1052,No Promotion,Electronics,2577.85
+ORD1053,Promotion,Clothing,1398.12
+ORD1054,No Promotion,Groceries,1019.19
+ORD1055,Promotion,Clothing,1870.69
+ORD1056,Promotion,Clothing,1365.95
+ORD1057,No Promotion,Electronics,1038.01
+ORD1058,Promotion,Electronics,1756.63
+ORD1059,No Promotion,Groceries,632.7
+ORD1060,Promotion,Groceries,1440.48
+ORD1061,No Promotion,Clothing,1921.14
+ORD1062,No Promotion,Electronics,1914.31
+ORD1063,No Promotion,Electronics,1934.86
+ORD1064,Promotion,Groceries,1215.41
+ORD1065,Promotion,Groceries,1153.04
+ORD1066,No Promotion,Groceries,1032.73
+ORD1067,Promotion,Groceries,1019.2
+ORD1068,No Promotion,Clothing,1679.66
+ORD1069,Promotion,Electronics,2394.5
+ORD1070,No Promotion,Electronics,2755.08
+ORD1071,Promotion,Groceries,1082.24
+ORD1072,Promotion,Clothing,1404.76
+ORD1073,Promotion,Electronics,3793.01
+ORD1074,No Promotion,Electronics,2892.4
+ORD1075,Promotion,Clothing,933.18
+ORD1076,Promotion,Electronics,2259.6
+ORD1077,No Promotion,Electronics,2983.2
+ORD1078,No Promotion,Clothing,821.34
+ORD1079,No Promotion,Clothing,1608.27
+ORD1080,Promotion,Clothing,1916.82
+ORD1081,No Promotion,Electronics,1745.55
+ORD1082,No Promotion,Groceries,797.8
+ORD1083,Promotion,Electronics,1191.49
+ORD1084,No Promotion,Electronics,3350.78
+ORD1085,Promotion,Groceries,1072.73
+ORD1086,Promotion,Clothing,1971.53
+ORD1087,Promotion,Groceries,1303.46
+ORD1088,No Promotion,Clothing,1843.15
+ORD1089,Promotion,Clothing,1476.68
+ORD1090,Promotion,Electronics,2682.48
+ORD1091,No Promotion,Clothing,1523.64
+ORD1092,No Promotion,Electronics,2767.15
+ORD1093,Promotion,Electronics,3300.33
+ORD1094,Promotion,Groceries,1030.65
+ORD1095,No Promotion,Clothing,1034.31
+ORD1096,Promotion,Groceries,1490.03
+ORD1097,Promotion,Clothing,835.17
+ORD1098,Promotion,Groceries,1542.51
+ORD1099,Promotion,Clothing,1529.07
+ORD1100,No Promotion,Clothing,1298.17
+ORD1101,Promotion,Clothing,1377.06
+ORD1102,No Promotion,Electronics,2168.67
+ORD1103,No Promotion,Groceries,1117.78
+ORD1104,No Promotion,Electronics,2701.06
+ORD1105,Promotion,Electronics,2870.25
+ORD1106,No Promotion,Clothing,1335.55
+ORD1107,No Promotion,Electronics,1260.35
+ORD1108,No Promotion,Groceries,588.97
+ORD1109,Promotion,Groceries,1064.2
+ORD1110,Promotion,Groceries,1264.42
+ORD1111,Promotion,Clothing,1677.86
+ORD1112,Promotion,Electronics,3189.28
+ORD1113,No Promotion,Groceries,918.41
+ORD1114,No Promotion,Clothing,1321.74
+ORD1115,Promotion,Groceries,1718.94
+ORD1116,No Promotion,Groceries,901.56
+ORD1117,No Promotion,Groceries,692.01
+ORD1118,No Promotion,Electronics,3408.98
+ORD1119,No Promotion,Clothing,1780.16
+ORD1120,Promotion,Groceries,1604.02
+ORD1121,Promotion,Electronics,2477.89
+ORD1122,No Promotion,Electronics,2834.6
+ORD1123,Promotion,Clothing,1068.86
+ORD1124,No Promotion,Groceries,996.0
+ORD1125,Promotion,Clothing,1586.91
+ORD1126,Promotion,Clothing,1107.98
+ORD1127,Promotion,Electronics,3221.19
+ORD1128,Promotion,Clothing,925.95
+ORD1129,Promotion,Groceries,671.82
+ORD1130,Promotion,Electronics,2785.61
+ORD1131,No Promotion,Clothing,1528.54
+ORD1132,No Promotion,Groceries,1042.63
+ORD1133,Promotion,Groceries,1335.49
+ORD1134,No Promotion,Clothing,1890.66
+ORD1135,No Promotion,Groceries,975.06
+ORD1136,Promotion,Clothing,1597.08
+ORD1137,Promotion,Electronics,2502.15
+ORD1138,Promotion,Groceries,1079.44
+ORD1139,Promotion,Groceries,1223.87
+ORD1140,No Promotion,Groceries,525.66
+ORD1141,No Promotion,Groceries,885.23
+ORD1142,Promotion,Clothing,1615.43
+ORD1143,Promotion,Clothing,1760.25
+ORD1144,No Promotion,Groceries,869.68
+ORD1145,No Promotion,Clothing,319.09
+ORD1146,No Promotion,Groceries,574.68
+ORD1147,No Promotion,Groceries,772.84
+ORD1148,Promotion,Groceries,1136.13
+ORD1149,Promotion,Electronics,2718.6
+ORD1150,No Promotion,Clothing,1420.94
+ORD1151,Promotion,Electronics,3535.55
+ORD1152,No Promotion,Clothing,1424.98
+ORD1153,Promotion,Electronics,2346.53
+ORD1154,Promotion,Clothing,1010.35
+ORD1155,Promotion,Clothing,1102.56
+ORD1156,Promotion,Electronics,2898.07
+ORD1157,Promotion,Clothing,2074.18
+ORD1158,No Promotion,Electronics,3201.89
+ORD1159,No Promotion,Electronics,1661.87
+ORD1160,Promotion,Groceries,1074.03
+ORD1161,No Promotion,Clothing,1396.93
+ORD1162,No Promotion,Electronics,3530.81
+ORD1163,Promotion,Clothing,1695.94
+ORD1164,Promotion,Groceries,1537.82
+ORD1165,No Promotion,Electronics,2310.48
+ORD1166,No Promotion,Clothing,1761.3
+ORD1167,No Promotion,Electronics,2867.28
+ORD1168,No Promotion,Electronics,2307.96
+ORD1169,No Promotion,Clothing,891.85
+ORD1170,No Promotion,Clothing,1192.36
+ORD1171,Promotion,Clothing,2245.62
+ORD1172,Promotion,Groceries,1369.46
+ORD1173,No Promotion,Groceries,691.59
+ORD1174,No Promotion,Clothing,1163.08
+ORD1175,Promotion,Electronics,1424.93
+ORD1176,Promotion,Groceries,1511.08
+ORD1177,No Promotion,Electronics,2775.94
+ORD1178,Promotion,Clothing,1595.17
+ORD1179,No Promotion,Electronics,2330.09
+ORD1180,No Promotion,Electronics,788.94
